@@ -3,7 +3,7 @@ import streamlit as st
 st.title("About This Dashboard")
 st.markdown("""
 Dashboard that provides insights into house pricing data. 
-            The dashboard is designed to be user-friendly, interactive, and informative, helping users visualize and analyze trends in house prices.
+        The dashboard is designed to be user-friendly, interactive, and informative, helping users visualize and analyze trends in house prices.
 """)
 
 # Connect with Developer Button
